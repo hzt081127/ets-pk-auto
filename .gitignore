@@ -1,0 +1,14 @@
+# 运行输出 / 临时文件
+pk-out.txt
+*.log
+logs/
+
+# 依赖
+node_modules/
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
